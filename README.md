@@ -1,8 +1,12 @@
 
-# react-native-echarts-pro
-[![NPM Version](https://img.shields.io/npm/v/react-native-echarts-pro.svg?style=flat)](https://www.npmjs.com/package/react-native-echarts-pro)
-[![NPM Version](https://img.shields.io/npm/dm/react-native-echarts-pro.svg?style=flat)](https://www.npmjs.com/package/react-native-echarts-pro)
-[![license](https://img.shields.io/badge/license-MIT%20License-00AAAA.svg)](https://github.com/supervons/react-native-echarts-pro/blob/master/LICENSE)
+# react-native-echarts-pro-fixed
+[![NPM Version](https://img.shields.io/npm/v/react-native-echarts-pro-fixed.svg?style=flat)](https://www.npmjs.com/package/react-native-echarts-pro-fixed)
+[![NPM Version](https://img.shields.io/npm/dm/react-native-echarts-pro-fixed.svg?style=flat)](https://www.npmjs.com/package/react-native-echarts-pro-fixed)
+[![license](https://img.shields.io/badge/license-MIT%20License-00AAAA.svg)](https://github.com/supervons/react-native-echarts-pro-fixed/blob/master/LICENSE)
+
+
+base [react-native-echarts-pro](https://github.com/supervons/react-native-echarts-pro),then fixed some bugs.
+
 
 English  [简体中文](/README_CN.md "中文介绍")
 ### A React-Native charts based on Apache ECharts, support various charts and map.
@@ -22,6 +26,8 @@ It is super easy to `use Apache ECharts in react-native`. Have a look at our [Ge
 
 ## Documentation
 [react-native-echarts-pro-docs](https://supervons.github.io/react-native-echarts-pro-docs/)
+
+then `react-native-echarts-pro` replace with `react-native-echarts-pro-fixed`
 
 # Contributors
 

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/supervons/react-native-echarts-pro"
+    "url": "https://github.com/daizhenhong/react-native-echarts-pro"
   },
   "keywords": [
     "react-native",
@@ -16,10 +16,10 @@
     "react-native-echarts",
     "react",
     "react-native-echarts-pro",
+    "react-native-echarts-pro-fixed",
     "echarts-pro"
   ],
-  "author": "supervons",
+  "author": "daizhenhong",
   "license": "MIT",
-  "peerDependencies": {
-  }
+  "peerDependencies": {}
 }
